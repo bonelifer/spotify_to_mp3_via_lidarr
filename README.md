@@ -42,7 +42,7 @@ To download songs from the album "Red Forest" by the artist "If These Trees Coul
     python3 main.py --artist "If These Trees Could Talk" --album "Red Forest" --quality "320"
 ```
 
-    Without command-line arguments, if artist_name and album_name are set within the script to "If These Trees Could Talk" and "Red Forest" respectively:
+Without command-line arguments, if artist_name and album_name are set within the script to "If These Trees Could Talk" and "Red Forest" with default quality of 192, respectively:
 ```
     python3 main.py
 ```

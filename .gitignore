@@ -203,3 +203,4 @@ dmypy.json
 .pyre/
 
 env.properties
+README.md.backup
